@@ -18,4 +18,4 @@ npm run build   # ينتج مجلد dist
 جاهز للنشر على Vercel (`vercel.json` يعيد توجيه كل المسارات إلى `index.html`).
 
 ## الترخيص
-ملكية خاصة — جميع الحقوق محفوظة لمقهى سِدرة. راجع [LICENSE](LICENSE).
+ملكية خاصة — جميع الحقوق محفوظة لفهد العنزي (Fahad Alanazi). راجع [LICENSE](LICENSE).
